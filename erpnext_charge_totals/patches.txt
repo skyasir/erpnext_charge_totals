@@ -1,0 +1,4 @@
+[pre_model_sync]
+
+[post_model_sync]
+erpnext_charge_totals.patches.retire_legacy_scripts
