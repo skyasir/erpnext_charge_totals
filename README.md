@@ -107,21 +107,3 @@ cd <bench>/sites
 ```
 
 Runs against a live site and rolls everything back.
-
-<!-- portfolio:start -->
----
-
-<p align="center">
-  <a href="https://yasirshaikh.in/?app=erpnext_charge_totals">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://yasirshaikh.in/files/yasir-logo-on-dark.svg">
-      <img src="https://yasirshaikh.in/files/yasir-logo.svg" alt="Yasir Shaikh" height="64">
-    </picture>
-  </a>
-</p>
-
-<p align="center">
-  Built by <a href="https://yasirshaikh.in/">Yasir Shaikh</a>, ERPNext consultant and Frappe developer.<br>
-  <a href="https://yasirshaikh.in/?app=erpnext_charge_totals">See this app on my portfolio</a>
-</p>
-<!-- portfolio:end -->
